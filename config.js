@@ -30,7 +30,7 @@ global.location = '1'
 
 //GLOBAL THUMB
 
-global.codeInvite = ""
+global.codeInvite = "https://chat.whatsapp.com/DuQU3pbRi4s6kwd5SW5der"
 global.imageurl = 'https://telegra.ph/file/019207dd7bf306d343b7e.jpg'
 global.isLink = 'https://whatsapp.com/channel/0029ValVRdpI1rcfS1rAJq3h'
 global.packname = "Re-Jeong"
